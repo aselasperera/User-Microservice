@@ -16,7 +16,7 @@ This is a simple user management microservice built using Go Fiber, a web framew
 
 2. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/user-microservice.git
+   git clone https://github.com/aselasperera/User-Microservice
    ```
 
 3. Navigate to the project directory:
